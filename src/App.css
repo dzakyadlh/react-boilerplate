@@ -15,15 +15,3 @@ body {
   min-height: 100vh;
   padding: 60px 5vw 0;
 }
-
-@font-face {
-  font-family: "Poppins";
-  src: local("Poppins"), url(./fonts/Poppins/Poppins-Regular.ttf),
-    format("truetype");
-}
-
-@font-face {
-  font-family: "Poppins";
-  src: local("Poppins"),
-    url(./fonts/Poppins/Poppins-Bold.ttf) format("truetype");
-}
